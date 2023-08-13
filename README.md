@@ -13,7 +13,7 @@
 </head>
 <body>
     <section id="header">
-        <p ><a href="#"><img align = "middle" src="images/logo.jpg" height="60" width="80" class="logo" alt=""></a>ShikSha Sahyog</p>
+        <p ><a href="#"><img align = "middle" src="logo.jpg" height="60" width="80" class="logo" alt=""></a>ShikSha Sahyog</p>
         <!-- <a href="#"><img src="images/name.jpg" height="80" width="100" class="logo" alt=""></a> -->
         
     <div>
